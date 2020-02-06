@@ -1,0 +1,73 @@
+
+.nev
+{
+	color : white;
+	font-size : 10;
+}
+
+.details
+{
+	font-size : 14;
+	text-align : justify;
+}
+
+.images
+{
+	height : 75%;
+	width : 100%;
+}
+
+.about
+{
+	color : white;
+	font-size : 14; 
+}
+
+.fa 
+{
+	padding: 15px;
+	font-size: 15px;
+	width: 10px;
+	height : 10px;
+	text-align: center;
+	border-style : solid;
+	border-width : 2px;
+}
+
+.fa-facebook 
+{
+	background: #333366;
+	color: white;
+}
+
+.fa-twitter 
+{
+	background: #333366;
+	color: white;
+}
+
+.fa-linkedin
+{
+	background: #333366;
+	color: white;
+}
+
+.fa-google-plus
+{
+	background: #333366;
+	color: white;
+}
+
+.footer
+{
+	color : white;
+	text-align : center;
+	height : 100;
+	font-size : 14px;
+}
+
+.fa-heart
+{
+	color : #F1283D;
+	border : none;
+}
